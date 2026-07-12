@@ -1,0 +1,6 @@
+pyside6
+mss
+pillow
+imageio-ffmpeg
+qtawesome
+pywin32; sys_platform == "win32"

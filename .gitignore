@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+packaging/Output/
+.claude/
+
+# Internal dev/planning docs — not needed by end users, kept local-only.
+PLAN.md
+CLAUDE.md
